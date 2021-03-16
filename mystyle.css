@@ -20,6 +20,8 @@ body{
 #content-box img{
   display: block;
   margin-left: auto;
+  border-radius: 25px;
+  border: 10px solid green;
   margin-right: auto;
   width: 50%;
   margin-bottom: 20px;
